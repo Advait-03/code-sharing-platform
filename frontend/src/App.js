@@ -226,8 +226,8 @@ function App() {
               value={languageFilter}
               onChange={e => setLanguageFilter(e.target.value)}
               style={{
-                backgroundImage: "url(\"data:image/svg+xml,%3csvg fill='none' stroke='%23666' stroke-width='2' viewBox='0 0 24 24' \
-xmlns='http://www.w3.org/2000/svg'%3e%3cpath stroke-linecap='round' stroke-linejoin='round' d='M19 9l-7 7-7-7'%3e%3c/path%3e%3c/svg%3e\")",
+              backgroundImage: `url("data:image/svg+xml,%3csvg fill='none' stroke='%23666' stroke-width='2' viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3e%3cpath stroke-linecap='round' stroke-linejoin='round' d='M19 9l-7 7-7-7'%3e%3c/path%3e%3c/svg%3e")`,
+
                 backgroundRepeat: 'no-repeat',
                 backgroundPosition: 'right 0.5rem center',
                 backgroundSize: '1em',
