@@ -1,6 +1,11 @@
+## 📧 Contact & Live Demo
+
+**Live Demo:** [CodeSnippet HUB](https://codenippet-hub.netlify.app/)
+
+Check out the live, deployed version of the app hosted on Netlify!
+
 # Code Snippet HUB 🚀
 
-A full‑stack web platform for discovering, creating, and sharing reusable code snippets with the community.  
 Built with **React**, **Node.js/Express**, and supports **Dark/Light mode**, **Live Preview**, and **Search/Filter**.
 
 ---
